@@ -1,0 +1,20 @@
+{
+  "description": "LANDI Forex Factory upcoming economic event slot 3",
+  "currency": "USD",
+  "base_currency": "USD",
+  "exchange": "CUSTOM",
+  "type": "index",
+  "session": "24x7",
+  "timezone": "Etc/UTC",
+  "pricescale": 1,
+  "has_intraday": true,
+  "supported_resolutions": [
+    "1",
+    "5",
+    "15",
+    "30",
+    "60",
+    "240",
+    "1D"
+  ]
+}
